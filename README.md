@@ -11,7 +11,7 @@ I have created a pythonenvironment for anyone who is interested in working on th
 
 Step 0 - __Contact me to obtain the settings.py file. App will not run without this and the SECRET_KEY__
 
-Step 1 - Install Python 3.6 or later. [Install Python](https://www.python.org/downloads/)
+Step 1 - [Install Python 3.6](https://www.python.org/downloads/) or later.
 
 Step 2  - Install pipenv
 In your command line, type,
