@@ -7,7 +7,9 @@ __If you would like to help, please send me a message, this project will not run
 
 # Installation
 
-I have created a pythonenvironment for anyone who is interested in working on this project, in order to get this running, do the following
+I have created a pythonenvironment for anyone who is interested in working on this project
+
+In order to execute the app and begin contibuting, complete the following:
 
 Step 0 - __Contact me to obtain the settings.py file. App will not run without this and the SECRET_KEY__
 
