@@ -5,7 +5,7 @@ Currently in development in Python + Django REST + HTML/CSS/JS
 
 __If you would like to help, please send me a message, this project will not run without the settings.py file which is currently untracked for security reasons__
 
-# Some of the Features we would like....
+# Some of the Features I'm aiming to provide...
 
 Character Stats
 
