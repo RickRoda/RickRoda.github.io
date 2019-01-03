@@ -9,9 +9,9 @@ __If you would like to help, please send me a message, this project will not run
 
 I have created a pythonenvironment for anyone who is interested in working on this project, in order to get this running, do the following
 
-Step 0 - __Contact me to obtain the settings.py file__
+Step 0 - __Contact me to obtain the settings.py file. App will not run without this and the SECRET_KEY__
 
-Step 1 - Install Python 3.6 or later.
+Step 1 - Install Python 3.6 or later. [Install Python](https://www.python.org/downloads/)
 
 Step 2  - Install pipenv
 In your command line, type,
