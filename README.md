@@ -26,7 +26,7 @@ Navigate to the root folder of the project and type,
 ``` 
 pipenv shell
 ```
-This will read the PIPFILE and install all the necessary dependencies to run the application.
+On its initial run, pipenv will read the PIPFILE and install all the necessary dependencies inside a virtual environment to run the application. You will use this command to re-activate your environment once its been exited.
 
 __Step 4__ - Create your local database.
 Once the environment is activated, from the root project directory, type,
