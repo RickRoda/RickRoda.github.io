@@ -11,31 +11,31 @@ I have created a pythonenvironment for anyone who is interested in working on th
 
 In order to execute the app and begin contibuting, complete the following:
 
-Step 0 - __Contact me to obtain the settings.py file. App will not run without this and the SECRET_KEY__
+__Step 0 - Contact me to obtain the settings.py file. App will not run without this and the SECRET_KEY__
 
-Step 1 - [Install Python 3.6](https://www.python.org/downloads/) or later.
+__Step 1__ - [Install Python 3.6](https://www.python.org/downloads/) or later.
 
-Step 2  - Install pipenv.
+__Step 2__  - Install pipenv.
 In your command line, type,
 ```
 pip install pipenv
 ```
 
-Step 3 - Install dependencies and activate environment
+__Step 3__ - Install dependencies and activate environment
 Navigate to the root folder of the project and type,
 ``` 
 pipenv shell
 ```
 This will read the PIPFILE and install all the necessary dependencies to run the application.
 
-Step 4 - Create your local database.
+__Step 4__ - Create your local database.
 Once the environment is activated, from the root project directory, type,
 ```
 python manage.py migrate
 ```
 This will create a local SQLite Database file in the root directory of the app.
 
-Step 5 - Run the Application
+__Step 5__ - Run the Application
 To run the application in development mode, type,
 ```
 python manage.py runserver
