@@ -13,7 +13,7 @@ Step 0 - __Contact me to obtain the settings.py file. App will not run without t
 
 Step 1 - [Install Python 3.6](https://www.python.org/downloads/) or later.
 
-Step 2  - Install pipenv
+Step 2  - Install pipenv.
 In your command line, type,
 ```
 pip install pipenv
