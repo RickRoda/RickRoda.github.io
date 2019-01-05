@@ -35,7 +35,7 @@ Once the environment is activated, from the root project directory, type,
 ```
 python manage.py migrate
 ```
-This will create a local SQLite Database file in the root directory of the app.
+This will create a local SQLite Database file called sqlite.db in the root directory of the app.
 
 __Step 5__ - Run the Application
 To run the application in development mode, type,
