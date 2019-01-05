@@ -2,6 +2,9 @@
 # Created by https://www.gitignore.io/api/venv,python,django
 # Edit at https://www.gitignore.io/?templates=venv,python,django
 
+###Local Files ###
+csv_parser/TheHolyGrail.csv
+
 ### Django ###
 *.log
 *.pot
@@ -11,6 +14,7 @@ local_settings.py
 db.sqlite3
 media
 epic7db/settings.py
+
 
 # If your build process includes running collectstatic, then you probably don't need or want to include staticfiles/
 # in your Git repository. Update and uncomment the following line accordingly.
