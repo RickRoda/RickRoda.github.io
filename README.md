@@ -13,6 +13,8 @@ In order to execute the app and begin contibuting, complete the following:
 
 __Step 0 - Contact me to obtain the settings.py file. App will not run without this and the SECRET_KEY__
 
+__Step 0.5 - Once you have obtained the settings.py file, place it inside the epic7db folder __
+
 __Step 1__ - [Install Python 3.6](https://www.python.org/downloads/) or later.
 
 __Step 2__  - Install pipenv.
