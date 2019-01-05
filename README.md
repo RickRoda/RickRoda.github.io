@@ -1,7 +1,7 @@
 # Epic7DB
 Database web app for the gacha game, Epic Seven.
 
-Currently in development in Python + Django REST + HTML/CSS/JS
+Currently in development in Python + Django REST Framework + HTML/CSS/JS
 
 __If you would like to contribute, please send me a message, this project will not run without the settings.py file which is currently untracked for security reasons__
 
