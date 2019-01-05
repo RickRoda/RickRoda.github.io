@@ -37,6 +37,15 @@ python manage.py migrate
 ```
 This will create a local SQLite Database file called sqlite.db in the root directory of the app.
 
+__Step 5__ - Create a superuser account.
+From the command line, type 
+```
+python manage.py createsuper user
+```
+Follow the prompts and create your user account. This account will be used to login to the admin panel, which is located in
+___127.0.0.1:8000/admin__
+
+
 __Step 5__ - Run the Application.
 To run the application in development mode, type,
 ```
