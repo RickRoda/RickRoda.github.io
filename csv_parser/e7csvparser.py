@@ -122,8 +122,14 @@ for row in reader:
 
 #Sven has 4 Skills
     if record['character'] == 'Sven':
+        
+#Next row for Skill 4
         skill_4_row = next(reader)
+
+#Initialize Nested JSON Element for Skill 3 
         record['skill_4'] = {}
+        
+#Find each Skill 4 value from each row and add them to the JSON Element    
         record['skill_4']['att_rate'] = skill_4_row['att_rate']
         record['skill_4']['soul_burn_att_rate'] = skill_4_row['soul_burn_att_rate']
         record['skill_4']['Bonus_Dmg1_atk%'] = skill_4_row['Bonus_Dmg1_atk%']
