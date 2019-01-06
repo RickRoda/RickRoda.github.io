@@ -1,7 +1,5 @@
 import csv
 import json 
-from collections import defaultdict
-
 """HOW TO RUN
 
 1. Have Python installed on your machine
