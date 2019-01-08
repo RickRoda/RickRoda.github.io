@@ -51,7 +51,7 @@ To run the application in development mode, type,
 ```
 python manage.py runserver
 ```
-By Default, the app will run on 127.0.0.1:8000 and can be accessed in your web browser.
+By Default, the app will run on 127.0.0.1:8000 and can be accessed via web browser.
 
 
 # Some of the Features I'm aiming to provide...
