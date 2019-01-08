@@ -42,7 +42,7 @@ From the command line, type
 ```
 python manage.py createsuperuser
 ```
-Follow the prompts and create your user account. This account will be used to login to the admin panel, which is located in
+Follow the prompts and create your user account. This account will be used to login to the admin panel, which is located at URL
 __127.0.0.1:8000/admin__
 
 
